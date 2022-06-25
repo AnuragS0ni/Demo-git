@@ -7,6 +7,8 @@ public class First2 {
 		System.out.println("Hello First");
 		
 		System.out.println("hhhhhhhhhhhh");
+		
+		System.out.println("Dusri line bhi likh di");
 	}
 
 }
